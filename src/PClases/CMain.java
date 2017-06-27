@@ -10,7 +10,7 @@ package PClases;
  */
 public class CMain {
     public static void main(String [] args){
-        PFormularios.FLogin registro1 = new PFormularios.FLogin();
-        registro1.setVisible(true);
+        PFormularios.FLogin registro = new PFormularios.FLogin();
+        registro.setVisible(true);
     }
 }
